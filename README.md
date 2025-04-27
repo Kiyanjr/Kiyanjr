@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kiyanjr
 - 👀 I’m interested in Mobile platforms expressly Andriod
 - 🌱 I’m currently learning Java and Flutter
-- 📫 How to reach me jrkiyan@gmail.com
+- 📫 How to reach me kian.johari@gmail.com
 
 
 <!---
