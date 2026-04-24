@@ -1,9 +1,5 @@
-# Hi, I’m Kiyan 👋
-
-🎓 I’m a Computer Engineering student.  
-📘 Currently learning Java & Flutter  
-📱 I’m also interested in mobile platforms, especially Android.  
-📫 How to reach me: kianjohari81@gmail.com
+## Hello
+Im Kiyan Johari,Flutter Developer who loves to experince new challenges.
 
 ---
 
