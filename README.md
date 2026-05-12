@@ -1,5 +1,6 @@
 ## Hello
-Im Kiyan Johari,Flutter Developer who loves to experince new challenges.
+Im Kiyan Johari,Flutter Developer. I like learning new technologies, 
+improving my skills, and turning ideas into real products.  hunger for improvement.
 
 ---
 
