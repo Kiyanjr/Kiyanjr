@@ -18,11 +18,11 @@ Im Kiyan Johari,Flutter Developer who loves to experince new challenges.
 
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiyanjr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiyanjr&show_icons=true&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kiyanjr&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyanjr&layout=compact&theme=radical)
 
 ---
 
