@@ -6,8 +6,8 @@ Im Kiyan Johari,Flutter Developer who loves to experince new challenges.
 ## 🌐 Socials  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianjohari81@gmail.com)
 
-[![Linkedln](https://img.shields.io/badge/Linkedln-D14836?style=for-the-badge&logo=linkdeln&logoColor=white)](mailto:kiyan-johari)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiyan-johari)
+
 
 ## 💻 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
