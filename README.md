@@ -23,12 +23,4 @@ Im Kiyan Johari,Flutter Developer who loves to experince new challenges.
 
 ---
 
-## 🔍 Popular Repositories  
-Here are a few of my highlighted projects:  
-- TelegramJavaBot — a Telegram bot in Java  
-- TicTacToe — classic game built in Java  
-- HangManJava — simple Hangman game in Java  
-- BlackJack — card game in Java  
-- Quiz_app — quiz application By Flutter
 
----
