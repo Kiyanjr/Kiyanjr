@@ -15,7 +15,7 @@ improving my skills, and turning ideas into real products.  hunger for improveme
 ![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![IOS](https://img.shields.io/badge/Ios-3DDC84?style=for-the-badge&logo=ios&logoColor=white)  
+![IOS](https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white) 
 
 
