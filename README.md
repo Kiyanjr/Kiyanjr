@@ -8,6 +8,8 @@ improving my skills, and turning ideas into real products.  hunger for improveme
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianjohari81@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/kiyan-johari-831720248?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KiyanDev1)
 
 
