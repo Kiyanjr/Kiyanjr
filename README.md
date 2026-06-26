@@ -11,6 +11,7 @@ improving my skills, and turning ideas into real products.  hunger for improveme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiyan-johari-831720248)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KiyanDev1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@yourusername](https://medium.com/@kiyanjr))
 
 
 ## 💻 Tech Stack  
