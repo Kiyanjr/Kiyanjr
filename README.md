@@ -12,7 +12,7 @@ improving my skills, and turning ideas into real products.  hunger for improveme
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KiyanDev1)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@yourusername](https://medium.com/@kiyanjr))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiyanjr)
 
 
 ## 💻 Tech Stack  
