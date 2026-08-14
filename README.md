@@ -13,7 +13,8 @@
 
 ### 👋 About Me
 
-- 🎯 Flutter Developer focused on **clean architecture** and **production-ready apps**
+- Hello, I`m Kiyan Johari, Computer Engineering graduate. I like to build cool stuff.
+- 🎯 Flutter Developer focused on **MVVM & clean architecture** and **production-ready apps**
 - 📚 I like learning new technologies and constantly improving my skills
 - 💡 I enjoy turning ideas into real, working products
 - 🔥 Hunger for improvement — always shipping, always learning
